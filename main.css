@@ -254,6 +254,9 @@
     padding: 10px;
     border-radius: 50px;
 }
+.mrg{
+    margin-top: 100px;
+}
 .flex4{
     display: flex;
     gap: 20px;
@@ -294,4 +297,59 @@
     font-size: 58px;
     color: #191A1A;
     font-weight: 700;
+}
+.footer-p{
+    font-size: 70px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.footer-p1{
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.footer-p2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.footer-div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.flex6{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.flex7{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.sixe{
+    width: 100px;
+    height: 100px;
+}
+.hr{
+    width: 85%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.flex8{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.flex9{
+    display: flex;
+    gap: 50px;
+}
+.footer2{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
 }
